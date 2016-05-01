@@ -1,0 +1,4 @@
+name: schema_generator
+version: 1.0.0
+dependencies:
+  json_schema: '1.0.3'
